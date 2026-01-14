@@ -1,0 +1,8 @@
+{
+  "name": "Krism.AI Client Dashboard",
+  "description": "A high-performance, professional dashboard for AI automation clients to track project progress, ROI, metrics, and communicate with the team.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
